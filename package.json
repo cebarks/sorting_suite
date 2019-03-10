@@ -1,0 +1,29 @@
+{
+  "name": "sorting_suite",
+  "version": "1.0.0",
+  "description": "basic implementation of a fundamental sorting algorithim in javascript",
+  "main": "bubble.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^4.2.0",
+    "pryjs": "^1.0.3"
+  },
+  "devDependencies": {
+    "mocha": "^6.0.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cebarks/sorting_suite.git"
+  },
+  "author": "Anten Skrabec (cebarks)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cebarks/sorting_suite/issues"
+  },
+  "homepage": "https://github.com/cebarks/sorting_suite#readme"
+}
